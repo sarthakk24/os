@@ -1,0 +1,49 @@
+echo SRM - Output: SRM
+
+clear - This clears the terminal screen, so there is no output.
+
+date - Output: the current date and time in the format Sat Apr 24 18:34:42 UTC 2023.
+
+cal 2003 - Output: the calendar for the year 2003.
+
+passwd - This command prompts the user to enter a new password, so there is no output until the user enters the new password.
+
+pwd - Output: the current working directory, for example: /home/user/documents.
+
+ls - Output: a list of all the files and directories in the current directory.
+
+mkdir - This command creates a new directory, so there is no output unless an error occurs.
+
+rmdir - This command deletes an empty directory, so there is no output unless an error occurs.
+
+touch - This command creates a new file, so there is no output unless an error occurs.
+
+man or --help - These commands display the manual page or help information for a given command, so the output varies depending on the command being queried.
+
+cp - This command copies files from one location to another, so there is no output unless an error occurs.
+
+mv - This command moves files and directories from one location to another, so there is no output unless an error occurs.
+
+locate - This command finds the location of a file, so the output shows the path to the file if it exists.
+
+Advanced Linux Commands:
+
+cat - This command displays the content of a file, so the output shows the contents of the file.
+
+new, vi, jed - These are pre-installed text editors in Linux, so there is no output until a file is opened and edited.
+
+df - This command displays the amount of disk space available on the system, so the output shows the amount of available disk space.
+
+du - This command displays the disk usage of a file or directory, so the output shows the size of the file or directory.
+
+uname - This command displays information about the Linux system, so the output shows details such as the kernel version and architecture.
+
+apt-get - This command is used to work with packages, download, install, and update, so the output varies depending on the specific action being taken.
+
+chmod - This command is used to change the permissions of a file or directory, so there is no output unless an error occurs.
+
+hostname - This command displays the host name and IP address of the system, so the output shows the host name and IP address.
+
+sudo - This command provides administrative privileges, so the output varies depending on the specific action being taken.
+
+ping - This command checks connectivity between a machine and a server, so the output shows whether the server is reachable and how long it takes to receive a response.
